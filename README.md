@@ -4,7 +4,7 @@ I'm Meghan Swanepoel, a visual content creator with a passion for creating eye-c
 🎨 My work involves creating engaging graphics for social media, YouTube and Web as well as creating branding for companies. I use my skills and creativity to bring ideas to life and deliver results that exceed my clients' expectations.
 - 👀 I’m interested in creating visual content 
 - 🌱 I’m currently learning UI Design
-- 💞️ I’m looking to collaborate on projects needing graphic design assets
+- 💞️ I’m looking to collaborate on projects needing eye catching graphic design assets
 - 📫 You can reach me at meghan.t.swanepoel@gmail.com
 
 <!---

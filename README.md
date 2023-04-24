@@ -11,4 +11,3 @@ I'm Meghan Swanepoel, a visual content creator with a passion for creating eye-c
 MegsSwanepoel/MegsSwanepoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Check out some of my work! [Meghan Swanepoel - Marketing and Design Portfolio (1) (1).pdf](https://github.com/MegsSwanepoel/MegsSwanepoel/files/11310534/Meghan.Swanepoel.-.Marketing.and.Design.Portfolio.1.1.pdf)
